@@ -1,1 +1,1 @@
-# DeveleapGitops
+# DeveleapGitops ([DeveleapCI repo](https://github.com/shay79il/DeveleapCI))
