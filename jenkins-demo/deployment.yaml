@@ -21,7 +21,7 @@ spec:
         app: webserver
     spec:
       containers:
-        - image: public.ecr.aws/q1c0q0c4/develeap:64
+        - image: public.ecr.aws/q1c0q0c4/develeap:65
           name: webserver
           ports:
             - containerPort: 5000
